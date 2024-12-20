@@ -1,0 +1,62 @@
+
+Progress Report: ClassConnect System
+Date: December 20, 2024
+Submitted By: Group 3
+Contributors:	Gideon Botchway
+Emmanuel Nii Amu
+Stephen Ampofo
+Nathaniel Nkrumah
+Daisy Deladem
+
+1.	Project Vision
+ClassConnect is a peer-to-peer tutoring platform designed to help students connect and collaborate for academic assistance. The platform simplifies finding tutors, scheduling sessions, and sharing knowledge, enabling students to improve their academic performance while fostering a sense of community.
+
+2.	Features
+Core Features;
+	Tutor Profiles - Students can create profiles to showcase their skills, expertise, and availability for tutoring.
+	Search and Match - A powerful search feature to find tutors based on subject, grade level, and ratings.
+	Session Scheduling - Integrated calendar for booking and managing tutoring sessions.
+	Virtual Tutoring Sessions - Tools for video conferencing, chat, and collaborative whiteboards.
+	Feedback and Ratings - A review system to ensure quality and build trust within the community.
+
+
+3.	 Personas
+1. Nii Amu (University Student (level 300))
+	Needs: Help with math assignments and exam preparation.
+	Goal: Find a qualified tutor for quick, one-on-one help.
+2. Nathaniel Nkrumah (University Student (level 400))
+	Needs: A platform to share his knowledge in science and earn rewards or recognition.
+	Goal: Manage tutoring requests and maintain a flexible schedule.
+3. Ms. Daisy Deladem Osai (School Administrator)
+	   - Needs: Oversee student interactions and ensure the platform fosters a positive learning environment.
+	   - Goal: Access analytics to monitor student performance and engagement.
+
+4.	User Stories
+4.1 For Students;
+	1. As a student, I want to search for a tutor in my preferred subject so I can improve my grades.
+	2. As a student, I want to book a session quickly to prepare for an upcoming test.
+4.2 For Tutors:
+	1. As a tutor, I want to display my expertise and availability so students can easily connect with me.
+	2. As a tutor, I want to receive feedback from students to improve my teaching approach.
+4.3 For Administrators:
+	As an administrator, I want to monitor user activity to ensure compliance with community guidelines.
+
+
+
+5.	Scenarios
+ Scenario 1: Booking a Tutoring Session
+Emmanuel Nii Amu logs into ClassConnect and searches for a math tutor. He filters results based on ratings and availability and books a session with Nathaniel Nkrumah. Both receive a notification confirming the session.
+Scenario 2: Providing Feedback
+After the session, Emmanuel Nii Amu leaves a rating and review for Nathaniel Nkrumah, which helps him improve his tutoring profile.
+
+
+6.	System Model Diagrams
+ Use-Case Diagram
+Actors: Students, Tutors, Administrators
+Use Cases: Search tutors, Book sessions, Leave feedback, Monitor activity.
+
+7.	Sequence Diagram: Booking Process
+•	Student searches for a tutor.
+•	The system fetches available tutors.
+•	Student selects a tutor and schedules a session.
+•	The system confirms the session and notifies both parties.
