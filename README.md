@@ -16,7 +16,7 @@ This repository contains the documentation and design for a ClassConnect System.
 
 ## Contributors
 - Gideon Botchway (ID: 4211231081)
-- Emmanuel Nii Amu (ID: 4211231103)
+- Emmanuel Nii Antia Amu (ID: 4211231103)
 - Stephen Ampofo (ID: 4211230092)
 - Nathaniel Nkrumah (ID: 4211230235)
 - Daisy Deladem (ID: 4211231351)
