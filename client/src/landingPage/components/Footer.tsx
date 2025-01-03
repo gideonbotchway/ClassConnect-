@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="container center">
           <div className="github-footer">
             <span>Star us on github</span>
-            <a href="https://www.github.com/divyanshraj0408/classconnect">
+            <a href="https://github.com/gideonbotchway/ClassConnect-">
               <img src={githubLogo} alt="" />
             </a>
           </div>
