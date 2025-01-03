@@ -1,0 +1,18 @@
+Problem and Solution in ClassConnect Project
+
+Problem:
+One of the major challenges encountered during the development of ClassConnect was ensuring effective scheduling and time zone synchronization for tutoring sessions. With students and tutors potentially connecting from different geographical regions and academic schedules,
+coordinating mutually convenient session times proved to be a significant hurdle. Time zone discrepancies often led to confusion, resulting in missed or overlapping sessions. Additionally, the lack of a streamlined scheduling system made it difficult for users to find 
+available slots that fit their schedules seamlessly.
+For example, a tutor in one time zone might schedule a session assuming local time, while the student might interpret the timing differently, leading to a mismatch. Moreover, without automated reminders or notifications, both parties often forgot scheduled sessions. 
+These issues not only caused frustration among users but also impacted the platform's credibility and reliability, ultimately reducing overall user satisfaction and engagement.
+
+Solution:
+To overcome these challenges, an intelligent scheduling system was developed and integrated into ClassConnect. This system leverages advanced time zone detection algorithms to automatically adjust and display session timings in the local time zone of each user. 
+Additionally, a real-time availability calendar was implemented, allowing tutors and students to view and book slots without confusion.
+The platform also introduced conflict detection features, which alert users if there is any overlap with their existing commitments. Automated reminders via email and in-app notifications were added to ensure both tutors and students are well-prepared for their 
+upcoming sessions.
+
+Furthermore, a rescheduling feature was introduced, enabling both parties to adjust session timings collaboratively if unforeseen circumstances arise. This flexibility greatly improved user satisfaction and reduced missed appointments.
+As a result, the new scheduling system significantly enhanced the reliability and usability of ClassConnect. Users could now confidently book, manage, and attend tutoring sessions without the fear of time zone-related misunderstandings. The platform achieved its goal
+of fostering seamless collaboration and providing a dependable peer-to-peer tutoring experience.
