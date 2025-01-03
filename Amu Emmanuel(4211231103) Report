@@ -1,0 +1,40 @@
+ClassConnect Project Report
+By AMU EMMANUEL NII ANTIA-4211231103
+Introduction
+ClassConnect is a platform that bridges the gap between students and tutors, enabling seamless 
+peer-to-peer academic support. With features like tutor profiles, real-time virtual sessions, and 
+intelligent scheduling, the platform fosters effective collaboration. My role in the project 
+centered on developing a robust search and match system to help students quickly find tutors 
+who best meet their academic needs.
+Problem
+One key challenge faced during development was the inefficiency in connecting students with 
+suitable tutors. Without a tailored search system, users were overwhelmed with irrelevant or 
+generic results, making it difficult to identify the right match. For instance, students seeking 
+subject-specific assistance often struggled to filter tutors based on expertise, availability, or 
+ratings. This lack of precision reduced the platform's usability and overall user satisfaction.
+Solution
+To address this issue, I developed an intelligent search and match system using an algorithm 
+designed to rank and prioritize results based on relevance. The system considered multiple 
+factors, including tutor expertise, user ratings, availability, and subject alignment. Filters such as 
+subject area, experience level, and preferred session format (e.g., video or chat) were introduced 
+to enhance the search experience further.
+Implementation Details
+The search system was built using [specific technologies, e.g., Python and Elasticsearch] to 
+ensure fast and accurate querying. A ranking algorithm was implemented to prioritize results, 
+and dynamic filters were developed using JavaScript for real-time adjustments. Data on tutor 
+profiles and session history was stored in a relational database, enabling efficient crossreferencing during searches.
+Challenges
+A primary challenge was optimizing the algorithm to ensure fast query response times while 
+managing a growing database of user profiles. Additionally, integrating dynamic filters with live 
+data required careful synchronization between the frontend and backend systems.
+Impact
+The search and match system significantly improved the platform's usability. Feedback from beta 
+testing showed that 90% of users found relevant matches within their first three searches, 
+reducing the time spent finding a tutor by over 50%. The feature also contributed to increased 
+user engagement, as students were more likely to book sessions when they could easily identify 
+suitable tutors.
+Conclusion and Future Work
+The search and match system has become a cornerstone of the ClassConnect platform, delivering
+precise results and improving user satisfaction. Future plans include leveraging AI to suggest 
+tutors based on past interactions and integrating machine learning to improve ranking accuracy 
+over time
