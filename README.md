@@ -1,18 +1,29 @@
 # ClassConnect
 
-## Overview
-This repository contains the documentation and design for a ClassConnect System. The project aims to streamline tutor and student interactions, including searching, scheduling, and booking sessions.
+# ClassConnect [Demo🔗](https://classconnect.onrender.com/)
+ClassConnect is a web application that aims to provide a platform similar to Google Classroom, allowing teachers to create classes, manage assignments, and interact with students in a virtual classroom environment. This project is developed using React & Node and Mongodb.
 
-## Folder Structure
-- **/docs**: Contains all project documentation, including:
-  - Personas
-  - User stories
-  - System diagrams (e.g., sequence diagrams, flowcharts)
-- **/src**: Placeholder for potential application code.
+## Table of Contents
 
-## Documentation Highlights
-- Personas: `/docs/personas.pdf`
-- Diagrams: `/docs/diagrams`
+- [Technologies used](#technologiesUsed)
+- [Features](#features)
+
+## Technologies used
+
+- Typescript/react
+- nodejs
+- mongodb
+
+## Features
+
+- User registration and authentication.✅
+- Teacher and student roles with different access permissions.
+- Create, join, and manage classes.✅
+- Create assignments.✅
+- Grade assignments and provide feedback.
+- Interactive class discussions. ✅
+- Notifications for new assignments and updates.
+- User-friendly and intuitive user interface. ✅
 
 ## Contributors
 - Gideon Botchway (ID: 4211231081)
