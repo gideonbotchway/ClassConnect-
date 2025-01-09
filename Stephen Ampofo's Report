@@ -1,4 +1,10 @@
 Problem and Solution in ClassConnect Project
+Introduction
+ClassConnect is a platform that bridges the gap between students and tutors, enabling seamless 
+peer-to-peer academic support. With features like tutor profiles, real-time virtual sessions, and 
+intelligent scheduling, the platform fosters effective collaboration. My role in the project 
+centered on developing a robust search and match system to help students quickly find tutors 
+who best meet their academic needs.
 
 Problem:
 One of the major challenges encountered during the development of ClassConnect was ensuring effective scheduling and time zone synchronization for tutoring sessions. With students and tutors potentially connecting from different geographical regions and academic schedules,
